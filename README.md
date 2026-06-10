@@ -1,22 +1,43 @@
 # 🛒 TechMark – Modern E-commerce Platform
 
-TechMark is a full-stack e-commerce web application built with **Next.js**, designed to deliver a smooth and modern online shopping experience.
+A modern, fast, and responsive e-commerce web application built with **Next.js**.  
+Designed to deliver a seamless shopping experience with authentication, cart system, wishlist, and checkout flow.
 
-The project includes authentication, product browsing, cart system, wishlist, and checkout flow with a clean and responsive UI.
+---
+
+## 🚀 Live Demo
+
+👉 https://tech-mark-git-main-abdrhmans-projects-b02400ee.vercel.app/
+
+---
+
+## 📸 Project Preview
+
+### 🏠 Home Page
+![Home Page](https://your-image-link/home.png)
+
+### 🛍️ Categories Page
+![Categories](https://your-image-link/categories.png)
+
+### 📦 Product Details
+![Product Page](https://your-image-link/product.png)
+
+### 🛒 Cart Page
+![Cart](https://your-image-link/cart.png)
 
 ---
 
 ## ✨ Features
 
-- 🔐 User Authentication (Login & Register)
-- 🛍️ Browse Products by Categories & Brands
-- 🔍 Product Details Page
-- 🛒 Shopping Cart System
-- ❤️ Wishlist Functionality
-- 💳 Checkout Process
-- 📦 Orders Management
-- ⚡ Fast and responsive UI
-- 📱 Fully responsive design (Mobile + Desktop)
+- 🔐 Authentication (Login & Register)
+- 🛍️ Product browsing by categories & brands
+- 🔍 Product details page
+- 🛒 Shopping cart system
+- ❤️ Wishlist functionality
+- 💳 Checkout process
+- 📦 Orders management
+- ⚡ High performance & optimized UI
+- 📱 Fully responsive design
 
 ---
 
@@ -33,51 +54,34 @@ The project includes authentication, product browsing, cart system, wishlist, an
 
 ## 📁 Project Structure
 src/
-├── app/ # Pages (Next.js App Router)
-├── components/ # Reusable UI components
-├── context/ # Global state (Cart & Wishlist)
-├── interfaces/ # TypeScript types
-├── lib/ # Utility functions
-├── types/ # Type definitions   
+├── app/
+├── components/
+├── context/
+├── interfaces/
+├── lib/
+├── types/
+
+
 
 
 ---
 
-## ⚙️ Installation & Setup
-
-Clone the repository:
+## ⚙️ Run Locally
 
 ```bash
 git clone https://github.com/AbdelrahmanDaify/TechMark.git
-
-
-Install dependencies:
+cd TechMark
 npm install
-
-
-Run development server:
 npm run dev
 
 
-Open:
-http://localhost:3000
 
 
-
-🚀 Build for Production
+🚀 Build & Start
 npm run build
 npm start
 
 
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](./public/screenshots/home.png)
-
-### 🛒 Cart Page
-![Cart](./public/screenshots/cart.png)
-
-### 📦 Product Page
-![Product](./public/screenshots/product.png)
-
+👨‍💻 Author
+Abdelrahman Ahmed Daify
