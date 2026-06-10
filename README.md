@@ -14,16 +14,13 @@ Designed to deliver a seamless shopping experience with authentication, cart sys
 ## 📸 Project Preview
 
 ### 🏠 Home Page
-![Home Page](https://your-image-link/home.png)
-
-### 🛍️ Categories Page
-![Categories](https://your-image-link/categories.png)
+![Home Page](./public/screenshots/home.png)
 
 ### 📦 Product Details
-![Product Page](https://your-image-link/product.png)
+![Product Page](./public/screenshots/product.png)
 
 ### 🛒 Cart Page
-![Cart](https://your-image-link/cart.png)
+![Cart Page](./public/screenshots/cart.png)
 
 ---
 
